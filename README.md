@@ -154,6 +154,10 @@ This project is licensed under the [MIT License](LICENSE) — feel free to use, 
 
 ---
 
+## 📸 App Preview
+
+![Demo Screenshot](1.png)
+
 ## 🤝 Acknowledgements
 
 * [Streamlit](https://streamlit.io/)
